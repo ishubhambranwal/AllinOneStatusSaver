@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960959152906",
+    "project_id": "reelsdownloader-1f482",
+    "storage_bucket": "reelsdownloader-1f482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960959152906:android:9029740f171fa815b230f3",
+        "android_client_info": {
+          "package_name": "com.reelsdownloder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960959152906-bcnbelic36th5s6cmqj1rktllk7dieak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABE2WPwlZuw2SAWXMEHCXFeIYsWjIl5K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960959152906-bcnbelic36th5s6cmqj1rktllk7dieak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
